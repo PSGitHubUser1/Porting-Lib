@@ -3,5 +3,5 @@ dependencies {
 	// TODO: use https://github.com/mwanji/toml4j/tree/master instead? night config is a little bloated
 
 	api(include("com.electronwill.night-config:toml:3.6.6"))
-	api(include("com.electronwill.night-config:core:3.6.6"))
+	api(include("com.electronwill.night-config:core:3.7.2"))
 }
